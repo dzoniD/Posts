@@ -1,0 +1,53 @@
+// {
+//   "posts": [
+//     {
+//       "id": 1,
+//       "title": "RestAPI",
+//       "authorId": "1"
+//     },
+//     {
+//       "id": 2,
+//       "title": "HTML",
+//       "authorId": "2"
+//     },
+//     {
+//       "id": 3,
+//       "title": "CSS",
+//       "authorId": "3"
+//     }
+//   ],
+//   "comments": [
+//     {
+//       "id": 1,
+//       "body": "Prvi komentar!",
+//       "postId": 1,
+//       "authorId": 1
+//     },
+//     {
+//       "body": "2. komentar!",
+//       "postId": 1,
+//       "authorId": 1,
+//       "id": 2
+//     },
+//     {
+//       "body": "Treci komentar!",
+//       "postId": 3,
+//       "authorId": 3,
+//       "id": 3
+//     }
+//   ],
+//   "authors": [
+//     {
+//       "id": 1,
+//       "name": "Luka"
+//     },
+//     {
+//       "id": 2,
+//       "name": "Milica"
+//     },
+//     {
+//       "id": 3,
+//       "name": "Mihailo"
+//     }
+//   ]
+// }

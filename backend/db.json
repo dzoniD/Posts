@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "RestAPI",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "JavaScript",
+      "authorId": 1
+    },
+    {
+      "id": 3,
+      "title": "HTML & CSS",
+      "authorId": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Prvi komentar!",
+      "postId": 1,
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "body": "Drugi komentar!",
+      "postId": 2,
+      "authorId": 1
+    },
+    {
+      "id": 3,
+      "body": "Treci komentar!",
+      "postId": 2,
+      "authorId": 3
+    },
+    {
+      "id": 4,
+      "body": "HTML 5 i CSS 3",
+      "postId": 3,
+      "authorId": 2
+    },
+    {
+      "id": 5,
+      "body": "Bolji je Axios od fetch()...",
+      "postId": 1,
+      "authorId": 2
+    },
+    {
+      "id": 6,
+      "body": "Jos ucim RestAPI !",
+      "postId": 1,
+      "authorId": 3
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Luka",
+      "pass": "luka"
+    },
+    {
+      "id": 2,
+      "name": "Danilo",
+      "pass": "danilo"
+    },
+    {
+      "id": 3,
+      "name": "Djole",
+      "pass": "djole"
+    }
+  ]
+}
